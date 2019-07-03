@@ -1,0 +1,7 @@
+C:\Users\mepe.skp\Desktop\Netværks Programmering\firstExercise\firstExercise\bin\Debug\firstExercise.exe.config
+C:\Users\mepe.skp\Desktop\Netværks Programmering\firstExercise\firstExercise\bin\Debug\firstExercise.exe
+C:\Users\mepe.skp\Desktop\Netværks Programmering\firstExercise\firstExercise\bin\Debug\firstExercise.pdb
+C:\Users\mepe.skp\Desktop\Netværks Programmering\firstExercise\firstExercise\obj\Debug\firstExercise.csprojAssemblyReference.cache
+C:\Users\mepe.skp\Desktop\Netværks Programmering\firstExercise\firstExercise\obj\Debug\firstExercise.csproj.CoreCompileInputs.cache
+C:\Users\mepe.skp\Desktop\Netværks Programmering\firstExercise\firstExercise\obj\Debug\firstExercise.exe
+C:\Users\mepe.skp\Desktop\Netværks Programmering\firstExercise\firstExercise\obj\Debug\firstExercise.pdb
